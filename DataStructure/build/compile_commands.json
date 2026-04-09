@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/DataStructure/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\EdgeLoad\\opencv\\build\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++17 /utf-8 /FoCMakeFiles\\opencv_test.dir\\main.cpp.obj /FdCMakeFiles\\opencv_test.dir\\ /FS -c D:\\DataStructure\\main.cpp",
+  "file": "D:/DataStructure/main.cpp",
+  "output": "D:/DataStructure/build/CMakeFiles/opencv_test.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/DataStructure/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\EdgeLoad\\opencv\\build\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++17 /utf-8 /FoCMakeFiles\\opencv_test.dir\\huffman.cpp.obj /FdCMakeFiles\\opencv_test.dir\\ /FS -c D:\\DataStructure\\huffman.cpp",
+  "file": "D:/DataStructure/huffman.cpp",
+  "output": "D:/DataStructure/build/CMakeFiles/opencv_test.dir/huffman.cpp.obj"
+}
+]
